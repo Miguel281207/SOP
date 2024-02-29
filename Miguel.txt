@@ -1,0 +1,50 @@
+cd ..
+mkdir Backup
+dir
+cd Atividade01
+copy /y Nota01.txt Backup
+copy Nota01.txt Backup
+copy Nota01.txt C:\Users\Aluno\Desktop\Backup
+copy Nota02.txt C:\Users\Aluno\Desktop\Backup
+cd ..
+Atividade01
+cd Atividade01
+del Nota01.txt
+del Nota02.txt
+cls
+dir
+cd ..
+cls
+dir
+cd Backup
+tree
+cls
+cd ..
+typecls
+cls
+ren Atividade01 Trabalhos
+mk Documentos
+mkdir Documentos
+dir
+cd Documentos
+mkdir Projetos
+mkdir Pessoais
+move Trabalhos
+move C:\Users\Aluno\Desktop\Trabalhos
+move C:\Users\Aluno\Desktop\Backup
+cd ..
+cd Documentos
+ren Pessoais Lazer
+cd Lazer
+echo Viagem.txt Fran‡a
+echo Viagem.txt >> Fran‡a
+echo Fran‡a >> Viagem.txt
+echo Espanha >> Viagem.txt
+echo Canada >> Viagem.txt
+echo Argentinaa >> Viagem.txt
+echo Austr lia >> Viagem.txt
+cd ..
+dir
+cd Documentos
+dir
+doskey /history >> Miguel.txt
