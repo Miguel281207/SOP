@@ -38,11 +38,11 @@ ren Pessoais Lazer
 cd Lazer
 echo Viagem.txt Fran‡a
 echo Viagem.txt >> Fran‡a
-echo Fran‡a >> Viagem.txt
+echo Franca >> Viagem.txt
 echo Espanha >> Viagem.txt
 echo Canada >> Viagem.txt
-echo Argentinaa >> Viagem.txt
-echo Austr lia >> Viagem.txt
+echo Argentina >> Viagem.txt
+echo Australia >> Viagem.txt
 cd ..
 dir
 cd Documentos
