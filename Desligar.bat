@@ -1,5 +1,5 @@
 @echo off
 
-shutdown /s /0
+shutdown /s /t 0 /c "Bye Bye"
 
-pause
+exit
