@@ -36,8 +36,8 @@ cd ..
 cd Documentos
 ren Pessoais Lazer
 cd Lazer
-echo Viagem.txt Fran‡a
-echo Viagem.txt >> Fran‡a
+echo Viagem.txt Franâ€¡a
+echo Viagem.txt >> Franâ€¡a
 echo Franca >> Viagem.txt
 echo Espanha >> Viagem.txt
 echo Canada >> Viagem.txt
